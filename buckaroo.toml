@@ -1,4 +1,4 @@
-target = [ "//:filesystem" ]
+targets = [ "//:filesystem" ]
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-assert"
