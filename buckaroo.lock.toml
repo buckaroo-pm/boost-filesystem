@@ -1,4 +1,4 @@
-manifest = "8e889436722cc44839c0c3fb9d2e46e15b370a5988724408a92a999b50484e69"
+manifest = "b60167586a4cebd3b351532d96123d03e96025cd9e488162b228d4921e92ae72"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-assert"
@@ -180,10 +180,6 @@ revision = "a1873af9c1d31fb8ec2a87482b6bb9729439b4ac"
 versions = [ "branch=master" ]
 revision = "7b8034e789068629ce2698f8ab76e206a4f7db8b"
 
-[lock."github.com/buckaroo-pm/boost-multiprecision"]
-versions = [ "branch=master" ]
-revision = "d931e50f7e9eb5d846aab6dff882728802d84361"
-
 [lock."github.com/buckaroo-pm/boost-numeric_conversion"]
 versions = [ "branch=master" ]
 revision = "f091bb16ac40cebcf1ac69bbe39f9452b1232b9c"
@@ -236,10 +232,6 @@ revision = "623a2c80a8448da0df4e7f20102e9e929e355551"
 versions = [ "branch=master" ]
 revision = "d37fc513e09735d1c699f4c085b5e4b82ac67895"
 
-[lock."github.com/buckaroo-pm/boost-test"]
-versions = [ "branch=master" ]
-revision = "205019c90a5e5e839fecabe65c3424f3a5887c49"
-
 [lock."github.com/buckaroo-pm/boost-thread"]
 versions = [ "branch=master" ]
 revision = "81a99237d46a86e08a513234d3ab557dabf4a86b"
@@ -275,10 +267,6 @@ revision = "eb8685995412f4d637925d26525c9211379ff875"
 [lock."github.com/buckaroo-pm/boost-ublas"]
 versions = [ "branch=master" ]
 revision = "e6768401f2942fb672cc1f0a28e87f273055f93c"
-
-[lock."github.com/buckaroo-pm/boost-ublas"]
-versions = [ "branch=master" ]
-revision = "1cf282fd9cca5c81388251c25c65adc0d3f8cfb3"
 
 [lock."github.com/buckaroo-pm/boost-unordered"]
 versions = [ "branch=master" ]
