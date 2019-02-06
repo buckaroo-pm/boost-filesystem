@@ -1,0 +1,69 @@
+targets = [ "//:filesystem" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-assert"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-bind"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-container_hash"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-foreach"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-io"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-range"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-smart_ptr"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-system"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-thread"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-timer"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.56.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "1.56.0"
