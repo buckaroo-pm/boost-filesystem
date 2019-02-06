@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'error-demo',
+  srcs = [
+    'error_demo.cpp',
+  ],
+  deps = [
+    '//:filesystem',
+  ],
+)
