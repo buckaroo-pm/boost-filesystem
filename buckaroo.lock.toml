@@ -1,4 +1,4 @@
-manifest = "8e889436722cc44839c0c3fb9d2e46e15b370a5988724408a92a999b50484e69"
+manifest = "b60167586a4cebd3b351532d96123d03e96025cd9e488162b228d4921e92ae72"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-assert"
@@ -226,7 +226,7 @@ revision = "fdc2df7f811436674a1c55c766b8830a8cd02e96"
 
 [lock."github.com/buckaroo-pm/boost-system"]
 versions = [ "branch=master" ]
-revision = "623a2c80a8448da0df4e7f20102e9e929e355551"
+revision = "7730c1c9ba6e809ab7e21c9115d362d5a717b112"
 
 [lock."github.com/buckaroo-pm/boost-test"]
 versions = [ "branch=master" ]
@@ -282,4 +282,4 @@ revision = "44002f228a0b91c556cd41f8ceb5b4bff7745166"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
-revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
+revision = "7dfc9d72ec1fd0a47d0ef4f8e7756c797ad26f53"
